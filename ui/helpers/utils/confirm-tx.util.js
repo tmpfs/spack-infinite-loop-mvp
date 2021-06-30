@@ -1,1 +1,1 @@
-import '../../selectors';
+import '../../store/actions';
