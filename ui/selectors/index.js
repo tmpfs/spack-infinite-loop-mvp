@@ -1,1 +1,1 @@
-export * from './selectors';
+import '../store/actions';
